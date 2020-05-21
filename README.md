@@ -9,7 +9,7 @@ If you want to see this bot in action, join the CRZA Esports Discord at [CRZA Es
 
 
 ## Cogs
- * **heist** - Clash Royale Themed Heist cog with additional features, port from Jumper-Cogs.
+ * **heist** - Brawl Stars Themed Heist cog with additional features, port from Jumper-Cogs.
 
 
 
