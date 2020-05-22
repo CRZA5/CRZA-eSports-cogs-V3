@@ -190,7 +190,7 @@ class Shop(commands.Cog):
         # Getting legendary
         elif choice_no == 5 and user_bal >= legendarycost:  # if user wants a legendary role
             if legendary in current_roles:  # checks if the user already has the role required
-                await ctx.send("DON'T WASTE YOUR TIME HERE GO ABUSE GENS WALLET. ")
+                await ctx.send("Error Occured Please Contact CRZA.")
                 return
             elif epic not in current_roles:  # If user has no or just rare role but not epic
                 await ctx.send("Get the epic role first.{}".format(author.mention))
